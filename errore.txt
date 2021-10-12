@@ -1,0 +1,32 @@
+Errore durante la ricezione della risposta HTTP a http://localhost:8733/Design_Time_Addresses/Biblioteca/Service1/. È possibile che il binding dell'endpoint del servizio non utilizzi il protocollo HTTP o che un contesto di richiesta HTTP sia stato interrotto dal server (probabilmente a causa dell'arresto del server). Per ulteriori informazioni, vedere i registri del server.
+
+Server stack trace: 
+   in System.ServiceModel.Channels.HttpChannelUtilities.ProcessGetResponseWebException(WebException webException, HttpWebRequest request, HttpAbortReason abortReason)
+   in System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   in System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   in System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   in System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   in System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   in System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   in System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   in System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   in IService1.GetLibri()
+   in Service1Client.GetLibri()
+
+Inner Exception:
+Connessione sottostante chiusa: Errore imprevisto durante un'operazione di ricezione..
+   in System.Net.HttpWebRequest.GetResponse()
+   in System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+
+Inner Exception:
+Impossibile leggere dati dalla connessione del trasporto: Connessione in corso interrotta forzatamente dall'host remoto.
+   in System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   in System.Net.PooledStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   in System.Net.Connection.SyncRead(HttpWebRequest request, Boolean userRetrievedStream, Boolean probeRead)
+
+Inner Exception:
+Connessione in corso interrotta forzatamente dall'host remoto
+   in System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   in System.Net.Sockets.NetworkStream.
