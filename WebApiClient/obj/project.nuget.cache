@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l0ltOeM6M9PJPcYok5inDtj+T3HC/kWBULXZxjWXpj+6Je3lBQTDVS3mY8vdQTWYq9wSqU+2or8ghS3VBxz0hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gian.mario.falchi\\OneDrive - Avanade\\Desktop\\VSProjects\\Biblioteca\\WebApiClient\\WebApiClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gian.mario.falchi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

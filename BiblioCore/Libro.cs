@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System.Collections.Generic;
 using System.Runtime.Serialization;
 
 namespace BiblioCore
@@ -20,5 +20,8 @@ namespace BiblioCore
 
         [DataMember]
         public string Autore { get; set; }
+
+        [DataMember]
+        public List<Prestito> Prestiti { get; set; } //navigation property
     }
 }

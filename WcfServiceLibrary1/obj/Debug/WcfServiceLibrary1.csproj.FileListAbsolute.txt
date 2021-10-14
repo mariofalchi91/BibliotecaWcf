@@ -1,0 +1,15 @@
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\WcfServiceLibrary1\bin\Debug\appsettings.json
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\WcfServiceLibrary1\bin\Debug\BiblioCore.dll
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\WcfServiceLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\WcfServiceLibrary1\bin\Debug\BiblioCore.pdb
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\WcfServiceLibrary1\bin\Debug\EntityFramework.pdb
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.AssemblyReference.cache
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CopyComplete
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\WcfServiceLibrary1\bin\Debug\Ninject.dll
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\WcfServiceLibrary1\bin\Debug\Ninject.xml

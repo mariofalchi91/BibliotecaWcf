@@ -1,10 +1,10 @@
 C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\BiblioCore\bin\Debug\netstandard2.0\BiblioCore.deps.json
 C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\BiblioCore\bin\Debug\netstandard2.0\BiblioCore.dll
 C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\BiblioCore\bin\Debug\netstandard2.0\BiblioCore.pdb
-C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\BiblioCore\obj\Debug\netstandard2.0\BiblioCore.csproj.AssemblyReference.cache
 C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\BiblioCore\obj\Debug\netstandard2.0\BiblioCore.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\BiblioCore\obj\Debug\netstandard2.0\BiblioCore.AssemblyInfoInputs.cache
 C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\BiblioCore\obj\Debug\netstandard2.0\BiblioCore.AssemblyInfo.cs
 C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\BiblioCore\obj\Debug\netstandard2.0\BiblioCore.csproj.CoreCompileInputs.cache
 C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\BiblioCore\obj\Debug\netstandard2.0\BiblioCore.dll
 C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\BiblioCore\obj\Debug\netstandard2.0\BiblioCore.pdb
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\BiblioCore\obj\Debug\netstandard2.0\BiblioCore.csproj.AssemblyReference.cache

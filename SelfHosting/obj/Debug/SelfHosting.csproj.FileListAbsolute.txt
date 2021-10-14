@@ -1,0 +1,7 @@
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\SelfHosting\bin\Debug\SelfHosting.exe.config
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\SelfHosting\bin\Debug\SelfHosting.exe
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\SelfHosting\bin\Debug\SelfHosting.pdb
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\SelfHosting\obj\Debug\SelfHosting.csproj.AssemblyReference.cache
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\SelfHosting\obj\Debug\SelfHosting.csproj.CoreCompileInputs.cache
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\SelfHosting\obj\Debug\SelfHosting.exe
+C:\Users\gian.mario.falchi\OneDrive - Avanade\Desktop\VSProjects\Biblioteca\SelfHosting\obj\Debug\SelfHosting.pdb
